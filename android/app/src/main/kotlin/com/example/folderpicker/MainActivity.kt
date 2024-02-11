@@ -90,3 +90,6 @@ class MainActivity : FlutterActivity() {
         return statusFileNames
     }
 }
+
+
+// https://github.com/dart-lang/sdk/issues/54878

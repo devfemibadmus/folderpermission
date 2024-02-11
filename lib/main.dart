@@ -154,3 +154,5 @@ class FolderPicker {
     }
   }
 }
+
+//https://github.com/dart-lang/sdk/issues/54878
